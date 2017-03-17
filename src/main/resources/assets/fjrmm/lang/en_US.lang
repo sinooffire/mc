@@ -1,0 +1,77 @@
+        //Items
+//Obsidian Series
+item.obsidianPickaxe.name=Refined Obsidian Pickaxe
+item.obsidianHoe.name=Refined Obsidian Hoe
+item.obsidianShovel.name=Refined Obsidian Shovel
+item.obsidianSword.name=Refined Obsidian Sword
+item.obsidianHelmet.name=Refined Obsidian Helmet
+item.obsidianChestplate.name=Refined Obsidian Chestplate
+item.obsidianLeggings.name=Refined Obsidian Leggings
+item.obsidianBoots.name=Refined Obsidian Boots
+
+//Onyx Series
+item.onyx.name=Onyx
+item.onyxPickaxe.name=Onyx Pickaxe
+item.onyxShovel.name=Onyx Shovel
+item.onyxHoe.name=Onyx Hoe
+item.onyxSword.name=Onyx Sword
+item.onyxHelmet.name=Onyx Helmet
+item.onyxChestplate.name=Onyx Chestplate
+item.onyxLeggings.name=Onyx Leggings
+item.onyxBoots.name=Onyx Boots
+
+//Ruby Series
+item.ruby.name=Ruby
+item.rubyPickaxe.name=Ruby Pickaxe
+item.rubyShovel.name=Ruby Shovel
+item.rubyHoe.name=Ruby Hoe
+item.rubySword.name=Ruby Sword
+item.rubyHelmet.name=Ruby Helmet
+item.rubyChestplate.name=Ruby Chestplate
+item.rubyLeggings.name=Ruby Leggings
+item.rubyBoots.name=Ruby Boots
+item.refinedRubyHelmet.name=Refined Ruby Helmet
+item.refinedRubyChestplate.name=Refined Ruby Chestplate
+item.refinedRubyLeggings.name=Refined Ruby Leggings
+item.refinedRubyBoots.name=Refined Ruby Boots
+item.refinedRubyPickaxe.name=Refined Ruby Pickaxe
+item.refinedRubyShovel.name=Refined Ruby Shovel
+item.refinedRubyHoe.name=Refined Ruby Hoe
+item.refinedRubySword.name=Refined Ruby Sword
+
+//Infused Diamond Series
+item.infusedDPickaxe.name=Refined Diamond Pickaxe
+item.infusedDHoe.name=Refined Diamond Hoe
+item.infusedDShovel.name=Refined Diamond Shovel
+item.infusedDSword.name=Refined Diamond Sword
+item.infusedDHelmet.name=Refined Diamond Helmet
+item.infusedDChestplate.name=Refined Diamond Chestplate
+item.infusedDLeggings.name=Refined Diamond Leggings
+item.infusedDBoots.name=Refined Diamond Boots
+
+        //Blocks
+//Infused Block Series
+tile.refinedobsidianblock.name=Refined Obsidian Block
+tile.infuseddiamondblock.name=Refined Diamond Block
+tile.rubyblock.name=Ruby Block
+tile.onyxblock.name=Onyx Block
+
+//Road Series
+tile.yellowewsblock.name=Solid Yellow EW/S
+tile.whiteewsblock.name=Solid White EW/S
+tile.yellowewnblock.name=Solid Yellow EW/N
+tile.whiteewnblock.name=Solid White EW/N
+tile.yellownswblock.name=Solid Yellow NS/W
+tile.whitenswblock.name=Solid White NS/W
+tile.yellownseblock.name=Solid Yellow NS/E
+tile.whitenseblock.name=Solid White NS/E
+
+//Food
+item.bacon.name=Bacon
+
+//Tabs
+itemGroup.tab_mtools=MetroTools
+itemGroup.tab_mcombat=MetroCombat
+itemGroup.tab_mblocks=MetroBlocks
+itemGroup.tab_mfood=MetroFood
+itemGroup.tab_mmisc=MetroMisc
